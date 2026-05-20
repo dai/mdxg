@@ -1,5 +1,7 @@
 # Markdown Experience Guidelines (MDXG)
 
+**Language:** English | [日本語](README.ja.md)
+
 **A specification for how interfaces should present and interact with markdown documents.**
 
 Markdown is the most widely supported document format in software. Every AI model speaks it. Every developer reads it. Every platform renders it. But the experience of *using* markdown has barely changed in twenty years.

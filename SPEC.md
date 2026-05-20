@@ -1,5 +1,7 @@
 # Markdown Experience Guidelines
 
+**Language:** English | [日本語](SPEC.ja.md)
+
 **Version 0.1.0 (Draft)**
 
 > **This specification is a work in progress.** Section numbers, requirements, and conformance levels may change. Feedback, questions, and contributions are welcome. Open an issue or start a discussion on the [GitHub repository](https://github.com/vercel-labs/mdxg).

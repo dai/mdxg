@@ -1,5 +1,7 @@
 # Contributing to MDXG
 
+**Language:** English | [日本語](CONTRIBUTING.ja.md)
+
 Thanks for your interest in MDXG. This project is in its early stages and input is appreciated, whether that's feedback on the spec, bug reports, new implementation ideas, or code contributions.
 
 ## Ways to Contribute
